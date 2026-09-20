@@ -25,7 +25,7 @@ I am a **Full-Stack Data Engineer** focused on building systems that turn fragme
 
 My engineering work spans the complete data-product lifecycle:
 
-**Web Data → Ingestion → Validation → Transformation → Storage → APIs → Intelligence Products → User Interface**
+**Web Data → Ingestion → Validation →Internal $ External enrichments → Transformation → Storage → APIs → Intelligence Products → User Interface**
 
 My primary focus is **Python backend engineering, data engineering, web automation, API systems, and full-stack data products**. I also work across React, TypeScript, Docker/Linux environments, CI/CD, automated testing, and security-oriented code review.
 
